@@ -5,6 +5,13 @@ button{
 }
 
 head{
-   background-color: #ff9900;
-    color: #333;
+    color: #000;
 }
+body{
+    background-color: #ffbc2b;
+}
+form{
+    size:10em ;
+    align-items: center;
+}
+
