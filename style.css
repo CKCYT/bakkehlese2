@@ -10,7 +10,7 @@ head{
 body{
     background-color: #ffbc2b;
 }
-form{
-    size:10em ;
-    align-text: center;
+.form{
+    align-items: center;
+    justify-content: center;
 }
